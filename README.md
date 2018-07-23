@@ -16,9 +16,11 @@
   - Business logic ให้เขียนด้วย DDD
   - พัฒนา UI แล้วแต่ถนัดไม่จำเป็นต้อง MVC หรือ MVVM หรือ UI ผ่าน Console หรือไม่ทำก็ได้
 - UI (หรือ Controller) ต้องสื่อสารกับ business logic ผ่าน Service เท่านั้น
-- ระบบต้องเก็บข้อมูลลงใน Memory หรือ Local Storage หรือ Firebase
-- เขียนเทสในส่วนของ DDD ให้ coverage code 100%
+- ระบบต้องเก็บข้อมูลลงใน Memory หรือ Local Storage หรือ Firebase หรืออื่นๆ และสามารถถอดหรือเปลี่ยนแปลงในอนาคตได้
+- เขียนเทสในส่วนของ business logic ให้ coverage code 100%
 - เมื่อพัฒนาเสร็จนำ Code ขึ้น Github แล้วส่งลิ้งมาที่ usawasan@onedaycat.com
+
+### ถ้าทำได้ถูกต้องจะรับเข้าทำงานทันที
 
 
 ![Design](https://github.com/onedaycat/challenge/raw/master/design.png)
