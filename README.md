@@ -18,7 +18,7 @@
 - UI (หรือ Controller) ต้องสื่อสารกับ business logic ผ่าน Service เท่านั้น
 - ระบบต้องเก็บข้อมูลลงใน Memory หรือ Local Storage หรือ Firebase
 - เขียนเทสในส่วนของ DDD ให้ coverage code 100%
-- เมื่อพัฒนาเสร็จนำ Code ขึ้น Github แล้วส่งแนบมากับ Email
+- เมื่อพัฒนาเสร็จนำ Code ขึ้น Github แล้วส่งลิ้งมาที่ usawasan@onedaycat.com
 
 
 ![Design](https://github.com/onedaycat/challenge/raw/master/design.png)
