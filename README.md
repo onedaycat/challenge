@@ -21,4 +21,4 @@
 - เมื่อพัฒนาเสร็จนำ Code ขึ้น Github แล้วส่งแนบมากับ Email
 
 
-![Design](https://github.com/onedaycat/challenge/design.png)
+![Design](https://github.com/onedaycat/challenge/raw/master/design.png)
